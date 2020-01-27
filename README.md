@@ -1,4 +1,3 @@
-# Example
-Just an example
-example
+# Lab 1 
+GitHub
 
